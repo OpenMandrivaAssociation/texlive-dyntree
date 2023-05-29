@@ -1,6 +1,6 @@
 Name:		texlive-dyntree
-Version:	15878
-Release:	2
+Version:	67016
+Release:	1
 Summary:	Construct Dynkin tree diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dyntree
