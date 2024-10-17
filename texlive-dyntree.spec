@@ -3,7 +3,7 @@ Version:	67016
 Release:	1
 Summary:	Construct Dynkin tree diagrams
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dyntree
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dyntree
 License:	LGPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dyntree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dyntree.doc.r%{version}.tar.xz
